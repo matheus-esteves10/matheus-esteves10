@@ -6,8 +6,6 @@
 
 🚀 Determined to grow professionally, I am open to new challenges and learning opportunities.
 
-💼 In search of an internship opportunity.
-
 ‎ ‎ ‎ ‎ ‎
 ## Languages and Tools I'm Learning 💻
 
