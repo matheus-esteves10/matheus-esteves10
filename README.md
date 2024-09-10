@@ -18,11 +18,6 @@
 ‎<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="70" height="70"/>
 
 ‎ ‎ ‎ ‎ ‎
-## GitHub Stats 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-esteves10&layout=compact&theme=midnight-purple)
-
-‎ ‎ ‎ ‎ ‎
 ## Reach Me 📫
 <div>
 <a href="https://www.linkedin.com/in/matheus-esteves-410772292/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
